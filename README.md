@@ -2,9 +2,9 @@
 
 <img align="left" alt="Coding" height="200px" src=https://zupimages.net/up/23/25/wng8.gif>
 
-<h2 align="justify">A student frontend developer from France. <br><br>
+<h3 align="justify">A student frontend developer from France. <br><br>
   A vibrant and artistic individual, I have skillfully intertwined my passion for various forms of art: piano, opera singing, visual arts, and, in my most recent experience, graphic design. 
-  <br><br> Being a creative at heart, I have actively participated and collaborated in the creation of visual, video, and audio materials.</h2>
+  <br><br> Being a creative at heart, I have actively participated and collaborated in the creation of visual, video, and audio materials.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marina-lecaillez&label=Profile%20views&color=0e75b6&style=flat" alt="marina-lecaillez" /> </p>
 
