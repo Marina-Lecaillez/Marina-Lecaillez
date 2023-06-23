@@ -1,6 +1,6 @@
 <h1 align="center">I'm Marina</h1>
 
-<img align="left" alt="Coding" width="400px" src=https://www.zupimages.net/up/23/20/okh9.gif>
+<img align="left" alt="Coding" width="400px" src=https://zupimages.net/up/23/25/wng8.gif>
 
 <h2 align="justify">A student frontend developer from France. <br><br>
   A vibrant and artistic individual, I have skillfully intertwined my passion for various forms of art: piano, opera singing, visual arts, and, in my most recent experience, graphic design. 
